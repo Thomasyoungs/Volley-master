@@ -7,7 +7,8 @@ import android.os.Environment;
 import android.os.StatFs;
 import android.util.LruCache;
 
-import com.jakewharton.disklrucache.DiskLruCache;
+
+import com.thomas.dafy.imageloader.lruchahe.DiskLruCache;
 
 import java.io.File;
 import java.io.IOException;
